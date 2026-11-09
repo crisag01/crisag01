@@ -19,7 +19,6 @@
 ### About me
 - 🎓 Industrial Engineering at **UNAM – FES Aragón** (2022 – 2026), Mexico City
 - 🐍 I use **Python** to automate repetitive work and turn messy data into clear information
-- 🏭 Background in manufacturing: CNC machining, G-code, turning calculations, industrial maintenance
 - 💼 Former **LLS Sales Intern at The Lubrizol Corporation** (2024 – 2026)
 - 🚀 Currently looking for my first full-time role in **process improvement, operations or data analysis**
 
@@ -47,7 +46,6 @@
 ### Sobre mí
 - 🎓 Ingeniería Industrial en la **UNAM – FES Aragón** (2022 – 2026), Ciudad de México
 - 🐍 Uso **Python** para automatizar tareas repetitivas y convertir datos desordenados en información clara
-- 🏭 Formación en manufactura: maquinado CNC, código G, cálculos de torneado y mantenimiento industrial
 - 💼 Fui **LLS Sales Intern en The Lubrizol Corporation** (2024 – 2026)
 - 🚀 Busco mi primer empleo de tiempo completo en **mejora de procesos, operaciones o análisis de datos**
 
